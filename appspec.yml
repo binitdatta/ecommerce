@@ -1,0 +1,9 @@
+version: 0.0
+os: linux
+files:
+  - source: /target/a1ecommerce.war
+    destination: /usr/share/tomcat/webapps/
+hooks:
+  ApplicationStart:
+    - location: scripts/application_start.sh
+      timeout: 10000 

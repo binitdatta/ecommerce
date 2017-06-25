@@ -1,21 +1,16 @@
-# eclipse specific git ignore
-build/
-*.tmp
-*.bak
-*.swp
-*~.nib
-
-*.class
-
-# Mobile Tools for Java (J2ME)
-target/
-Servers/
-RemoteSystemsTempFiles/
-.metadata/
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*~
+#*
+*#
+.#*
+.classpath
+.project
+.settings
+.springBeans
+.gradle
+build
+bin
+/target/
+git.properties
+.idea
+*.iml
+.factorypath
