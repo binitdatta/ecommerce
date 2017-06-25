@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: https://s3-us-west-2.amazonaws.com/binit-tomcat-a1ecommerce-deply-bucket/a1ecommerce.war
+  - source: dist/a1ecommerce.war
     destination: /usr/share/tomcat/webapps/
 hooks:
   ApplicationStart:
