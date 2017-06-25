@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: dist/a1ecommerce.war
-    destination: /usr/share/tomcat/webapps/
+    destination: /opt/apache-tomcat-7.0.78/webapps/
 hooks:
   ApplicationStart:
     - location: scripts/application_start.sh
