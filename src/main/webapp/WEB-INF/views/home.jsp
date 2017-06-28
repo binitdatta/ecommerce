@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>A1 electronics e-commerce site</title>
+	<title>A1 Changed electronics e-commerce site</title>
    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/css/app.css"/>    
 </head>
