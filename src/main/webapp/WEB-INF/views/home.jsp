@@ -10,7 +10,7 @@
 
 <div class="container">
 	<div id="header" class="col-md-12">
-		<h1>A1 Changed Again electronics e-commerce site</h1>
+		<h1>A1 Changed Again and Again electronics e-commerce site</h1>
 	</div>
 	<div id="categories" class="col-md-3"></div>
 	<div id="products" class="col-md-9"></div>
